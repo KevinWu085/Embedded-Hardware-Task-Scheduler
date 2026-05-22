@@ -1,0 +1,1 @@
+Note: This repository highlights the core C++ state-machine logic and hardware scheduling architecture. It was originally compiled using a proprietary university framework, so the standard Timer.h hardware-timer macros have been abstracted out of this public repository.
